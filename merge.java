@@ -1,5 +1,5 @@
 /*
-program to merge two arrays in asscending order
+program to merge two sorted arrays in asscending order
 */
 
 
