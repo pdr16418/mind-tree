@@ -57,6 +57,6 @@ public class MergeArrays
 	        j++;
 	        k++;
 	    }
-	    return result;
+	    return r;
 	}
 }
